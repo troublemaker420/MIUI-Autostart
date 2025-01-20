@@ -73,16 +73,3 @@ boolean enabled = Autostart.INSTANCE.getSafeState(context);
 ```
 
 Or using `isAutoStartEnabled(Context, DefaultValue)`
-
-## Support
-
-[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/XomaDev)
-[![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://buy.stripe.com/eVadUDdeY4ov3QIdR7)
-
-I'm Kumaraswamy, also known as Xoma Dev. A self-taught developer with expertise in Kotlin and Java, I have a strong passion for learning new algorithms. Crafting Android projects is not just work for me, it's where I find my joy and creativity.
-
-<b>Your support means a lot to me.</b><br>
-
-Finding this solution was really tough. I had to work and research day after day until I finally figured it out. If you can help out with a small donation, it would mean a lot and add value to my work. Thanks a lot!
-
-Kumaraswamy B.G
